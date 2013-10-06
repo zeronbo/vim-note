@@ -63,7 +63,7 @@
 
 <h3 id='title1'>1. 关于Vim</h3>
 
-vim是我最喜欢的编辑器，也是linux下第二强大的编辑器。 虽然emacs是公认的世界第一，我认为使用emacs并没有使用vi进行编辑来得高效。 如果是初学vi，运行一下vimtutor是个聪明的决定。 （如果你的系统环境不是中文，而你想使用中文的vimtutor，就运行vimtutor zh）  
+维基百科[Vim](http://zh.wikipedia.org/zh/Vim)
 
 <h5 id='title1.1'>1.1 Vim的几种模式</h5>
 
