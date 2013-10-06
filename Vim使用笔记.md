@@ -1,5 +1,8 @@
 #Vim使用笔记
 ------------------------------------
+
+根据此篇网络博客["Vim使用笔记 - 吉庆 - 博客园"](http://www.cnblogs.com/jiqingwu/archive/2012/06/14/vim_notes.html#id7)使用markdown的排版方式进行整理
+
 1.  [关于Vim](#title1)  
     1.1 [Vim的几种模式](#title1.1)  
 2.  [启动Vim](#title2)  
